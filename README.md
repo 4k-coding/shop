@@ -1,4 +1,4 @@
-
-<h2>Docker compose pet-project<h2>
-
-
+* Docker
+* Postgres, Mongo, Redis
+* JWT, REST API
+* Simulation of payment via fondy
